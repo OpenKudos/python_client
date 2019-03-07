@@ -33,7 +33,7 @@ Now we need set some env varibles to indicate to the script where its located th
 
 
 ```sh
-$ export CONTRACT_JSON_PATH='Kudos721Contract/build/contracts/Kudos.json'
+$ export CONTRACT_JSON_PATH='abi/Kudos.json'
 $ export NETWORK_URL='https://mainnet.infura.io/v3/...'
 $ export LIMIT_KUDOS=15
 ```
@@ -56,4 +56,5 @@ Processing |################################| 15/15
 
 
 ## License
-**TBD***
+
+See [LICENSE](LICENSE).
