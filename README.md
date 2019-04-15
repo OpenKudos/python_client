@@ -53,6 +53,11 @@ Processing |################################| 15/15
   10  Elixer Mixer               Elixer Mixers are kn...  https://s.gitcoin.co/static/v2...
 ...
 ```
+## See also
+
+- [kudosbadges Repo](https://github.com/gitcoinco/kudosbadges)
+- [kudos python client](https://github.com/OpenKudos/python_client)
+- [kudos contract Repo](https://github.com/gitcoinco/Kudos721Contract)
 
 
 ## License
