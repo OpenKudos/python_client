@@ -1,6 +1,6 @@
 # Kudos Python
 
-Kudos Python is an scraping kudos library based on the  [kudos contract](https://github.com/gitcoinco/Kudos721Contract).
+Kudos Python is a scraping kudos library based on the  [kudos contract](https://github.com/gitcoinco/Kudos721Contract).
 To begin to scrap kudos see [Setup](#Setup)
 
 
